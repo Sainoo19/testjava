@@ -10,7 +10,7 @@ import com.example.testjava.domain.Answer;
 import com.example.testjava.domain.AnswerDTO;
 import com.example.testjava.domain.Question;
 import com.example.testjava.domain.QuestionDTO;
-import com.example.testjava.repository.AnswerRepository;
+
 import com.example.testjava.repository.QuestionRepository;
 
 @Service
